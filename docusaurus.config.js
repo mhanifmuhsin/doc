@@ -42,13 +42,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/mhanifmuhsin/doc/",
+          editUrl: "https://github.com/mhanifmuhsin/doc",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/mhanifmuhsin/doc/",
+          editUrl: "https://github.com/mhanifmuhsin/doc",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -69,7 +69,7 @@ const config = {
       },
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "mhanifmuhsin",
+        title: "m-doc",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -79,12 +79,17 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Docs",
+            label: "Archives",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/mhanifmuhsin",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            href: "https://id.linkedin.com/in/mhanifmuhsin",
+            label: "linkedIn",
             position: "right",
           },
         ],
@@ -132,7 +137,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} mhanifmuhsin.`,
+        copyright: `Copyright © ${new Date().getFullYear()} m-doc.`,
       },
       prism: {
         theme: lightCodeTheme,
