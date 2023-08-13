@@ -30,7 +30,7 @@ Update Configurasi di file docusaurus.config.js
   deploymentBranch: "gh-pages",
 ```
 
-## Langka Deploy ke Github Pages
+## Langkah Deploy ke Github Pages
 
 1. Siapkan branch gh-pages
 2. Setting github-pages di repository ini, Settings > Pages > set branch ke gh-pages
