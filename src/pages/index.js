@@ -54,7 +54,7 @@ export default function Home() {
           </Link>
         </div>
         <div style={{ padding: "10px" }} className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/blog">
+          <Link className="button button--secondary button--lg" to="/doc/blog">
             Blog 🛠️
           </Link>
         </div>
