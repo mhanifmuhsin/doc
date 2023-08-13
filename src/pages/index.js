@@ -44,6 +44,21 @@ export default function Home() {
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
+      <div style={{ display: "flex", justifyContent: "center" }}>
+        <div style={{ padding: "10px" }} className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro"
+          >
+            Doc 💾
+          </Link>
+        </div>
+        <div style={{ padding: "10px" }} className={styles.buttons}>
+          <Link className="button button--secondary button--lg" to="/docs/blog">
+            Blog 🛠️
+          </Link>
+        </div>
+      </div>
       {/* <main>
         <HomepageFeatures />
       </main> */}
