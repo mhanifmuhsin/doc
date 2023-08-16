@@ -4,10 +4,20 @@
         <title>My Doc Blog</title>
         <link>https://mhanifmuhsin.github.io/doc/blog</link>
         <description>My Doc Blog</description>
-        <lastBuildDate>Sun, 13 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Mengenal Docusaurus]]></title>
+            <link>https://mhanifmuhsin.github.io/doc/blog/docusaurus-2</link>
+            <guid>https://mhanifmuhsin.github.io/doc/blog/docusaurus-2</guid>
+            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dalam membuat sebuah dokumentasi pemograman, tentu banyak cara dalam menuangkannya dan banyak juga aplikasi yang menawarkan kemudahan, salah satunya adalah Docusaurus, web ini saya buat mengguanakan docusaurus, keren kan ? , alasan kenapa saya menggunakan docusaurus antara lain :]]></description>
+            <content:encoded><![CDATA[<p>Dalam membuat sebuah dokumentasi pemograman, tentu banyak cara dalam menuangkannya dan banyak juga aplikasi yang menawarkan kemudahan, salah satunya adalah <strong>Docusaurus</strong>, web ini saya buat mengguanakan docusaurus, keren kan ? , alasan kenapa saya menggunakan docusaurus antara lain :</p><ol><li>Instalasi mudah</li><li>Tidak perlu pusing dalam mendesain tampilan, karena sudah disediakan template yang menurut saya cukup untuk menuliskan dokumentasi, sehingga kita hanya fokus dalam konten saja</li><li>Bisa digunakan juga sebagai blog</li><li>Bisa deploy ke github pages</li><li>Menggunakan markdown dalam pembuatan sebuah dokumentasi</li><li>Terdapat beberapa fitur yang luar biasa seperti versioning, i18n, search and theme customizations</li></ol><p>Docusaurus sudah banyak digunakan oleh perusahaan - perusahaan besar juga antara lain dokumentasi <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>, dokumentasi <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">Redux</a>, sehingga tidak salah kita untuk mencoba membuat dokumentasi menggunakan docusaurus ini, sebagai contoh siapa saja yang sudah menggunakan docusaurus kita bisa melihatnya <a href="https://docusaurus.io/showcase" target="_blank" rel="noopener noreferrer">disiini - (klik disini)</a> yang disediakan oleh docusaurus.</p><p>Sekian untuk pengenalan mengenai Docusaurus, untuk lebih detailnya silahkan langsung kunjungi websitenya dengan <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">meng klik ini</a>.</p>]]></content:encoded>
+            <category>docusaurus</category>
+            <category>dokumentasi</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://mhanifmuhsin.github.io/doc/blog/welcome</link>
