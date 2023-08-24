@@ -1,6 +1,6 @@
 ---
 slug: hideable-collapse
-title: Hideable Sidebar dan Auto Collapse Categories (Doc)
+title: Hideable Sidebar dan Auto Collapse Categories (Docs)
 authors: [mhanifmuhsin]
 tags: [docusaurus, config]
 ---
